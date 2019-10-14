@@ -1,0 +1,12 @@
+{
+	"name": "tmpr",
+    "description": "A simple MVC for assessment",
+    "autoload": {
+        "psr-4": {
+            "Model\\": "Core/"
+        }
+    },
+	"require-dev": {
+		"phpunit/phpunit": "^7"
+	}
+}
